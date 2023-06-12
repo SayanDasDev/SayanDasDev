@@ -10,9 +10,9 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yourusername" alt="Profile Visits">
-    <img src="https://badges.pufler.dev/repos/yourusername" alt="GitHub Repos">
-    <img src="https://badges.pufler.dev/commits/monthly/yourusername" alt="GitHub Commits">
+    <img src="https://komarev.com/ghpvc/?username=SayanDasDev" alt="Profile Visits">
+    <img src="https://badges.pufler.dev/repos/SayanDasDev" alt="GitHub Repos">
+    <img src="https://badges.pufler.dev/commits/monthly/SayanDasDev" alt="GitHub Commits">
   </p>
 </div>
 
