@@ -91,7 +91,9 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and thos
 <br>
 
 ## 🌈 Looking for Inspiration?
-Check out my repositories! You'll find a mix of personal projects, experiments, and delightful surprises. Don't forget to star your favorites! 😉
+Check out my repositories! You'll find a mix of personal projects, experiments, and delightful surprises. 
+<br>
+Don't forget to star your favorites! 😉
 
 
 
