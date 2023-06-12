@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello there, fellow developers and curious souls!</h1>
+  <h1 style="margin-bottom: 0;">Hello there, fellow developers and curious souls!</h1>
 </div>
 
 <div align="center">
@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-  <h2>Welcome to my GitHub profile!</h2>
+  <h2 style="margin-bottom: 0;">Welcome to my GitHub profile!</h2>
 </div>
