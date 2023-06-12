@@ -74,9 +74,11 @@ With this ever-growing toolkit of technologies, I'm ready to tackle new challeng
 
 ## ✨ Let's Connect
 I'm always excited to connect with fellow developers, tech enthusiasts, and those passionate about shaping the digital landscape. Drop me a message, let's grab a virtual coffee, or explore the endless possibilities of the coding universe!<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/das-sayan/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/das-sayan/)
+
 
 <br>
+
 ## 🌈 Looking for Inspiration?
 Check out my repositories! You'll find a mix of personal projects, experiments, and delightful surprises. Don't forget to star your favorites! 😉
 
