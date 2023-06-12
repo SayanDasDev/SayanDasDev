@@ -72,7 +72,7 @@ With this ever-growing toolkit of technologies, I'm ready to tackle new challeng
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayanDasDev&show_icons=true&theme=radical&bg_color=90,8A11A8,008D9B&hide_border=true&border_radius=5&title_color=fb8c00&icon_color=fb8c00)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&bg_color=90,8A11A8,008D9B&hide_border=true&title_color=fb8c00&text_color=a9f7f4&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDasDev&hide_progress=false&bg_color=90,8A11A8,008D9B&hide_border=true&title_color=fb8c00&text_color=a9f7f4&layout=donut)
 
 
 
