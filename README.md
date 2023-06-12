@@ -70,7 +70,7 @@ With this ever-growing toolkit of technologies, I'm ready to tackle new challeng
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SayanDasDev&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=90%2C8A11A8%2C008D9B)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayanDasDev&show_icons=true&theme=radical&bg_color=90,8A11A8,008D9B&hide_border=true&border_radius=5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayanDasDev&show_icons=true&theme=radical&bg_color=90,8A11A8,008D9B&hide_border=true&border_radius=5&title_color=fb8c00&icon_color=fb8c00)
 
 
 
