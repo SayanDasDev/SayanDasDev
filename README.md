@@ -16,6 +16,8 @@
   </p>
 </div>
 
+<br>
+
 ## 🚀 About Me
 <p>
   I'm a full-stack developer currently in my final year, pursuing 🎓 B.Sc. in Computer Science from 🏫 Ramakrishna Mission Vivekananda Centenary College, Rahara.
@@ -30,7 +32,7 @@
 
 <br>
 
-## Technology Stack 💻
+## 💻 Technology Stack 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++">
