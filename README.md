@@ -3,5 +3,8 @@
   <h2>Welcome to my GitHub profile!</h2>
 </div>
 
-![Hi](./Hello.gif)
+<div align="center">
+  <img src="./Hello.gif" alt="Hi" height="200">
+</div>
+
 
