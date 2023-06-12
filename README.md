@@ -64,12 +64,13 @@ With this ever-growing toolkit of technologies, I'm ready to tackle new challeng
 </p>
 
 ## 📊 It's stat-o-clock!
-<div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SayanDasDev&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=90%2C8A11A8%2C008D9B)](https://git.io/streak-stats)
+<div style="text-align: center;">
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SayanDasDev&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=90%2C8A11A8%2C008D9B)](https://git.io/streak-stats)
 </div>
 
+
 ## ✨ Let's Connect
-I'm always excited to connect with fellow developers, tech enthusiasts, and those passionate about shaping the digital landscape. Drop me a message, let's grab a virtual coffee, or explore the endless possibilities of the coding universe!
+I'm always excited to connect with fellow developers, tech enthusiasts, and those passionate about shaping the digital landscape. Drop me a message, let's grab a virtual coffee, or explore the endless possibilities of the coding universe!<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url/)
 
 
