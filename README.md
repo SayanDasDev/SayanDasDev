@@ -17,7 +17,7 @@
 </div>
 
 ## 🚀 About Me
-<p align="center>
+<p>
   I'm a full-stack developer currently in my final year, pursuing 🎓 B.Sc. in Computer Science from 🏫 Ramakrishna Mission Vivekananda Centenary College, Rahara.
 <br>
   I have a genuine love for helping others 😁, so don't hesitate to reach out if you need assistance on your coding journey.<br> I'm here to support you! 🤝
