@@ -20,10 +20,10 @@
 <p>
   I'm a full-stack developer currently in my final year pursuing 🎓 B.Sc. in Computer Science from 🏫 Ramakrishna Mission Vivekananda Centenary College, Rahara.
 <br>
-  I have a genuine love for helping others, so don't hesitate to reach out if you need assistance on your coding journey. I'm here to support you! 🤝
+  I have a genuine love for helping others 😁, so don't hesitate to reach out if you need assistance on your coding journey. I'm here to support you! 🤝
 <br>
   I strongly believe in the power of technology to make a positive impact, and I'm excited to connect, collaborate, and create something amazing together. Let's embark on this adventure and make a difference! 🌟🚀
-<br>
+<br><br>
   Fun Fact: When I'm not coding, I'm lost in reading novels 📚 or gaming🎮
 </p>
 
