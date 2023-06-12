@@ -27,3 +27,26 @@
   Fun Fact: When I'm not coding, I'm lost in reading novels 📚 or gaming🎮
 </p>
 
+## 💻 My Journey
+
+<p>
+I embarked on my coding journey by tinkering with C and C++, discovering the joy of building something from scratch. As my skills expanded, I ventured into the vast world of Java, honing my object-oriented programming prowess. But it was JavaScript's dynamic nature and Python's elegance that truly captivated me. 🚀
+<br>
+And oh boy, React stole the show with its component-based wizardry! ⚛️
+<br>
+Now, I'm honing my backend skills with Laravel, diving deeper into the world of server-side development. 🌐✨
+<br>
+With this ever-growing toolkit of technologies, I'm ready to tackle new challenges and create remarkable web experiences. Let's bring ideas to life and craft innovative solutions together! 💪🔥
+</p>
+
+
+
+
+
+
+
+
+
+
+  
+  
