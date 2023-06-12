@@ -27,7 +27,14 @@
   Fun Fact: When I'm not coding, I'm lost in reading novels 📚 or gaming🎮
 </p>
 
-## 💻 My Journey
+
+
+## 💻 Technology Stack
+
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+
+## 💫 My Journey
 
 <p>
 I embarked on my coding journey by tinkering with C and C++, discovering the joy of building something from scratch. As my skills expanded, I ventured into the vast world of Java, honing my object-oriented programming prowess. But it was JavaScript's dynamic nature and Python's elegance that truly captivated me. 🚀
@@ -38,10 +45,6 @@ Now, I'm honing my backend skills with Laravel, diving deeper into the world of 
 <br>
 With this ever-growing toolkit of technologies, I'm ready to tackle new challenges and create remarkable web experiences. Let's bring ideas to life and craft innovative solutions together! 💪🔥
 </p>
-
-
-
-
 
 
 
