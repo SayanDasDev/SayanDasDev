@@ -6,3 +6,6 @@
 <div align="center">
   <img src="./Hello.gif" alt="Hi" height="300">
 </div>
+<div align="center">
+  So excited to have you here, where I unleash my passion for crafting awesome web experiences and diving deep into the realm of code.
+</div>
