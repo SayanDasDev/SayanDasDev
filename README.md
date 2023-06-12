@@ -1,5 +1,3 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> 
-<lottie-player src="https://lottie.host/b57fa42e-5087-4831-9a74-a6d4ad291ea3/Ek4EQOPlgx.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
 
 ### ![Hi](./Hello.gif) there 👋
 
