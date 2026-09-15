@@ -38,12 +38,6 @@ M.Sc Computer Science · Ramakrishna Mission Vivekananda Educational and Researc
 ### GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SayanDasDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=SayanDasDev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDasDev&layout=compact&theme=github_dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDasDev&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
-  </picture>
+  <img src="https://img.shields.io/github/followers/SayanDasDev?style=for-the-badge&logo=github&label=Followers&color=181717&logoColor=white" alt="Followers">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSayanDasDev&query=%24.public_repos&label=Repos&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="Public Repos">
 </p>
