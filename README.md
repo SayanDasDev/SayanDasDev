@@ -2,11 +2,20 @@
 
 # Sayan Das
 
-AI/ML Engineer at Rezolve. M.Sc Computer Science, Ramakrishna Mission Vivekananda Educational and Research Institute.
+AI/ML Engineer at Rezolve
+
+M.Sc Computer Science · Ramakrishna Mission Vivekananda Educational and Research Institute
+
+<p>
+  <a href="https://www.linkedin.com/in/das-sayan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://sayandas.co.in"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+</p>
 
 </div>
 
-## Stack
+---
+
+### Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
@@ -26,10 +35,15 @@ AI/ML Engineer at Rezolve. M.Sc Computer Science, Ramakrishna Mission Vivekanand
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-## Contact
+### GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/das-sayan/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SayanDasDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=SayanDasDev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDasDev&layout=compact&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDasDev&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
+  </picture>
 </p>
